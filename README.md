@@ -1,5 +1,6 @@
-# JOGOS MAIS VENDIDOS
-Primero quero fazer uma lista dos 5 jogos mais vendidos.
-O visual do saite pode ser um fundo preto com as informaçoẽs,não precisa ser detalhado.
-A Lista vai ser na ordem decrescente, do menor jogo da lista para o maior.
-Cada jogo vai ter um texto, um resumo para entenderem um pouco do jogo, e um  
+#5 motivos para jogar pou
+Vou fazer uma lista com 5 motivos do porque jogar pou
+Com o fundo preto e algumas imagens
+1:Da pra deixar o pou no drip
+2:voce pode deixar ele passar fome
+3:tem
